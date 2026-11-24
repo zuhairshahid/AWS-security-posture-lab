@@ -12,3 +12,6 @@ AWS Security Hub, IAM, S3, VPC, EC2
 
 ## Skills shown
 Cloud security posture management, least-privilege IAM, network segmentation, security reporting
+
+## Report
+Read the full assessment: [AWS_Security_Assessment_Report.pdf](AWS_Security_Assessment_Report.pdf). Account identifiers and personal details are redacted.
